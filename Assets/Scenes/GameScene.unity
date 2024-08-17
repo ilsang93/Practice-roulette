@@ -438,7 +438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   roulette: {fileID: 1672539625}
   needle: {fileID: 714257875}
-  targetRotSpeed: 5
+  targetRotSpeed: {x: 5, y: 50}
   slowdownSpeed: 1
 --- !u!4 &1051730352
 Transform:
